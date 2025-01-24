@@ -1,4 +1,5 @@
 # contents
-this is line 1
-this is line 2
-this is line 3
+
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
